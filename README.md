@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi, I'm Davide
+I'm a passionate Software Engineer with a lifelong love for computer science, which began at the age of 6 with a Commodore 64. I'm a curious problem-solver who enjoys learning and growing through new experiences. Based in Berlin since 2021, I thrive on exploring innovative projects and contributing to impactful solutions.
 <!--
 **dbellettini/dbellettini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
