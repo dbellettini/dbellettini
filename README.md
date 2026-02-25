@@ -32,8 +32,3 @@ solutions that truly serve users.
 
 When I'm not coding, I'm behind a drum kit or playing bass guitar. My first lines of code were on a
 **Commodore 64**—those were the days. I love collaborating with teams that value quality over quick fixes.
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbellettini&layout=compact&hide=html,css&langs_count=6)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dbellettini&show_icons=true&count_private=true&hide=stars)
