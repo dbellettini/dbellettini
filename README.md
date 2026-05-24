@@ -1,6 +1,6 @@
 # Hey there! I'm Da 👋🏳️‍🌈
 
-Software engineer based in Berlin, Germany. 12+ years engineering backend systems professionally, started on a Commodore 64 and never really stopped.
+Senior software engineer based in Berlin, Germany. 12+ years engineering backend systems professionally, started on a Commodore 64 and never really stopped.
 
 💼 **Find me on** [LinkedIn](https://www.linkedin.com/in/dbellettini/)
 
