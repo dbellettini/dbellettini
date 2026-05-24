@@ -1,4 +1,4 @@
-# Hey there! I'm Da 👋
+# Hey there! I'm Da 👋🏳️‍🌈
 
 Software engineer based in Berlin, Germany. 12+ years engineering backend systems professionally, started on a Commodore 64 and never really stopped.
 
@@ -12,9 +12,4 @@ Currently deep in **agentic AI**: LLMs that reason and act, with humans firmly i
 
 ## A bit about me
 
-When I'm not coding, I'm behind a drum kit or playing bass guitar. 🏳️‍🌈
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbellettini&layout=compact&hide=html,css&langs_count=6)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dbellettini&show_icons=true&count_private=true&hide=stars)
+When I'm not coding, I'm behind a drum kit or playing bass guitar.
