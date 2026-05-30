@@ -2,16 +2,16 @@
 
 Senior software engineer based in Berlin, Germany. 12+ years engineering backend systems professionally, started on a Commodore 64 and never really stopped.
 
-*anyone can ship fast. few can make it stay shipped.*
+*Anyone can ship fast, few can make it reliable.*
 
 💼 **Find me on** [LinkedIn](https://www.linkedin.com/in/dbellettini/) · 🔗 [All my links](https://bellettini.eu/)
 
 ## What I do
 
-Backend-focused with **Scala**, CQRS, DDD. Deep PHP/Symfony background ([community member since 2009](https://connect.symfony.com/profile/dbellettini)), plus infrastructure (**Terraform/OpenTofu**, **Docker**). I've pulled companies out of production disasters.
+Backend-focused with **Scala** on the Java Virtual Machine, CQRS, DDD. Deep PHP/Symfony background ([community member since 2009](https://connect.symfony.com/profile/dbellettini)), plus solid Node.js/TypeScript. I apply CQRS and DDD to build reliable systems, complex integrations, and practical AI features.
 
-Currently deep in **agentic AI**: LLMs that reason and act, with humans firmly in the loop. The real skill is asking the right questions and applying solid engineering principles.
+I also know my way around infrastructure (**Terraform/OpenTofu**, **Docker**), though that's not my primary focus.
 
 ## A bit about me
 
-When I'm not coding, I'm behind a drum kit or playing bass guitar.
+When I'm not coding, I enjoy drums, bass, and YouTube rabbit holes.
