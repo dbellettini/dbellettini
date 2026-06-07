@@ -8,10 +8,10 @@ Senior software engineer based in Berlin, Germany. 12+ years engineering backend
 
 ## What I do
 
-Backend-focused with **Scala** on the Java Virtual Machine, CQRS, DDD. Deep PHP/Symfony background ([community member since 2009](https://connect.symfony.com/profile/dbellettini)), plus solid Node.js/TypeScript. I apply CQRS and DDD to build reliable systems, complex integrations, and practical AI features.
+Backend and distributed systems, primarily with **Scala** on the Java Virtual Machine — CQRS, DDD, event sourcing. Deep PHP/Symfony background ([community member since 2009](https://connect.symfony.com/profile/dbellettini)), solid Node.js/TypeScript. I build reliable systems, complex integrations, and Agentic AI.
 
-I also know my way around infrastructure (**Terraform/OpenTofu**, **Docker**), though that's not my primary focus.
+When the project needs it, I can also handle infrastructure (**Terraform/OpenTofu**, **Docker**) and frontend — not my main stage, but I'm useful there.
 
 ## A bit about me
 
-When I'm not coding, I enjoy drums, bass, and YouTube rabbit holes.
+When I'm not coding, I enjoy drums, bass, and deep dives into science, aviation, and space.
